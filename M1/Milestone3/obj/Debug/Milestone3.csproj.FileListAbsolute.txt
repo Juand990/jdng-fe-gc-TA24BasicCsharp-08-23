@@ -1,0 +1,7 @@
+E:\VS Proyectos\Milestone3\bin\Debug\Milestone3.exe.config
+E:\VS Proyectos\Milestone3\bin\Debug\Milestone3.exe
+E:\VS Proyectos\Milestone3\bin\Debug\Milestone3.pdb
+E:\VS Proyectos\Milestone3\obj\Debug\Milestone3.csproj.AssemblyReference.cache
+E:\VS Proyectos\Milestone3\obj\Debug\Milestone3.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\Milestone3\obj\Debug\Milestone3.exe
+E:\VS Proyectos\Milestone3\obj\Debug\Milestone3.pdb

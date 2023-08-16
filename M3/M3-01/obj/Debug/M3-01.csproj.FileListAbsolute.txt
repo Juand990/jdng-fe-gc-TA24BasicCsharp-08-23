@@ -1,0 +1,7 @@
+E:\VS Proyectos\M3-01\bin\Debug\M3-01.exe.config
+E:\VS Proyectos\M3-01\bin\Debug\M3-01.exe
+E:\VS Proyectos\M3-01\bin\Debug\M3-01.pdb
+E:\VS Proyectos\M3-01\obj\Debug\M3-01.csproj.AssemblyReference.cache
+E:\VS Proyectos\M3-01\obj\Debug\M3-01.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\M3-01\obj\Debug\M3-01.exe
+E:\VS Proyectos\M3-01\obj\Debug\M3-01.pdb
